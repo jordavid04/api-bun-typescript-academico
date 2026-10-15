@@ -1,6 +1,7 @@
 # API com Bun e TypeScript — Versão Detalhada (Tarefa)
 
-Desenvolvido por: Jordavid  
+Desenvolvido por: Jorge David Bolognesi
+Matricula: 2024001052
 Disciplina: Desenvolvimento Web II — 2026
 
 Esta segunda versão do README descreve com mais detalhes a tarefa solicitada: manter o código atual, usar o server nativo do Bun em TypeScript, expor rotas de usuário (GET /usuarios e POST /usuarios), implementar um middleware de validação e explicar o fluxo completo (server → rotas → middleware → controller → resposta).
