@@ -1,4 +1,4 @@
-# API com Bun e TypeScript — Versão Detalhada (Tarefa)
+# API com Bun e TypeScript — Versão Detalhada 
 
 Desenvolvido por: Jorge David Bolognesi
 Matricula: 2024001052
